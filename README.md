@@ -47,7 +47,7 @@ When are we getting a hardware refresh
 <img src="https://i.imgur.com/vu0I6l3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we will login as an jane doe(jane is the agent that we created is the post installation setup lab). We will assume jane as an helpdesk worker and we will see how jane will work to solve these tickets.
+Now we will login as an jane doe(jane is the agent that we created is the post installation setup lab). We will assume jane as an helpdesk worker who will login and solve her everyday tickets.
 </p>
 <br />
 
@@ -55,7 +55,7 @@ Now we will login as an jane doe(jane is the agent that we created is the post i
 <img src="https://i.imgur.com/OqaUlWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Jane will open the first ticket which says entire mobile banking is down. We are supposing that here jane will work as both the helpdesk technician and the que manager. Start the process by setting the SLA. Because this is  the business impacting problem so set the SLA to SEV-A.
 </p>
 <br />
 
@@ -63,7 +63,9 @@ Now we will login as an jane doe(jane is the agent that we created is the post i
 <img src="https://i.imgur.com/iaO6J5s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Change the department of the ticket from support to System Administrator, because system administrator has the all permissions to do everything.
+  
+Change the priority level from normal to emergency.
 </p>
 <br />
 
@@ -71,23 +73,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/1nkeI1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+These are the threats and we can see as jane is making changes and adding comments, we can see them. So the system administrator is responsible for the mobile banking and jane will coordinate with them to bring the mobile banking back online.
 </p>
 <br />
 
 
-[<p>
 <img src="https://i.imgur.com/JNw2hCD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Jane coordinated with jerry from the system administration department and he fixed the issue.
 </p>
 <br
 <p>
-<img src="https://i.imgur.com/1nkeI1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<p>
+<img src="https://i.imgur.com/JNw2hCD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+The system administrator solved the issue and the online mobile banking is backup.
 </p>
 <br />
 
@@ -95,14 +100,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/JNw2hCD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Jane resolved the ticket and post reply and in this way the ticket is closed
 
-<p>
-<img src="https://i.imgur.com/JNw2hCD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />

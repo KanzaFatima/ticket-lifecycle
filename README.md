@@ -32,13 +32,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 To start this lab we will open the end users link in the new tab and create some tickets as karen and ken. Click open new ticket and add these tickets. These are some randome madeup tickets.
   
   
-Entire mobile online banking system is down
+1-Entire mobile online banking system is down
 
   
-Accounting department needs adobe upgrade
+2-Accounting department needs adobe upgrade
 
   
-When are we getting a hardware refresh
+3-When are we getting a hardware refresh
 
 </p>
 <br />
@@ -47,7 +47,7 @@ When are we getting a hardware refresh
 <img src="https://i.imgur.com/vu0I6l3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we will login as an jane doe(jane is the agent that we created is the post installation setup lab). We will assume jane as an helpdesk worker who will login and solve her everyday tickets.
+Now we will login as an jane doe(jane is the agent that we created is the post installation setup lab). We will assume jane as an helpdesk worker who will login and solve her everyday tickets)
 </p>
 <br />
 
@@ -73,7 +73,7 @@ Change the priority level from normal to emergency.
 <img src="https://i.imgur.com/1nkeI1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-These are the threats and we can see as jane is making changes and adding comments, we can see them. So the system administrator is responsible for the mobile banking and jane will coordinate with them to bring the mobile banking back online.
+These are the threats and as jane is making changes and adding comments, we can see them. So the system administrator is responsible for the mobile banking and jane will coordinate with them to bring the mobile banking back online.
 </p>
 <br />
 

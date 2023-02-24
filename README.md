@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/HEm332u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To start this lab we will open the end users link in the new tab and create some tickets as karen and ken. Click open new ticket and add these tickets. These are some randome madeup tickets.
+To start this lab we will open the End Users link in a new tab and create some tickets as Karen and Ken. Click open new ticket and add these tickets. 
   
   
 1-Entire mobile online banking system is down
@@ -47,7 +47,9 @@ To start this lab we will open the end users link in the new tab and create some
 <img src="https://i.imgur.com/vu0I6l3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Now we will login as an jane doe(jane is the agent that we created is the post installation setup lab). We will assume jane as an helpdesk worker who will login and solve her everyday tickets)
+  
+Now we will login as an jane doe(jane is the agent that we created is the post installation setup lab). We will assume jane as a helpdesk worker who will login and solve her everyday tickets
+
 </p>
 <br />
 
@@ -55,7 +57,9 @@ Now we will login as an jane doe(jane is the agent that we created is the post i
 <img src="https://i.imgur.com/OqaUlWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane will open the first ticket which says entire mobile banking is down. We are supposing that here jane will work as both the helpdesk technician and the que manager. Start the process by setting the SLA. Because this is  the business impacting problem so set the SLA to SEV-A.
+  
+Jane will open the first ticket which says entire mobile banking is down. We are supposing that here jane will work as both the helpdesk technician and the que manager. Start the process by setting the SLA. Since this problem involves a business, set the SLA to SEV-A.
+
 </p>
 <br />
 
@@ -63,7 +67,7 @@ Jane will open the first ticket which says entire mobile banking is down. We are
 <img src="https://i.imgur.com/iaO6J5s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Change the department of the ticket from support to System Administrator, because system administrator has the all permissions to do everything.
+Change the department of the ticket from support to System administrator has the all permissions to do everything.
   
 Change the priority level from normal to emergency.
 </p>
@@ -73,7 +77,8 @@ Change the priority level from normal to emergency.
 <img src="https://i.imgur.com/1nkeI1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-These are the threats and as jane is making changes and adding comments, we can see them. So the system administrator is responsible for the mobile banking and jane will coordinate with them to bring the mobile banking back online.
+These are the threads and as jane is making changes and adding comments, we can see them. The system administrator in this scenario is responsible for mobile banking. Jane will coordinate with them to bring the mobile banking back online.
+
 </p>
 <br />
 
@@ -81,7 +86,8 @@ These are the threats and as jane is making changes and adding comments, we can 
 <img src="https://i.imgur.com/JNw2hCD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane coordinated with jerry from the system administration department and he fixed the issue.
+Jane coordinated with Jerry from the system administration department and he fixed the issue.
+
 </p>
 <br
 <p>
@@ -100,7 +106,6 @@ The system administrator solved the issue and the online mobile banking is backu
 <img src="https://i.imgur.com/JNw2hCD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane resolved the ticket and post reply and in this way the ticket is closed
-
+Jane resolved the ticket and then clicked on “post reply” to end the ticket
 </p>
 <br />
